@@ -15,7 +15,7 @@
 - 🎓 Computer Science Engineering student
 - 🤖 Passionate about **Artificial Intelligence**, Machine Learning , Deep learning , Agent and LLM
 - 🚀 Working on: personal and academic projects
-- 📍 Based in Algeria 🇩🇿
+
 
 
 ## 🛠️ Tech stack
