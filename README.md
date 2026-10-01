@@ -4,7 +4,7 @@
 
 ### Computer Science Engineering Student | Specializing in Artificial Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Learning+AI+%26+Machine+Learning;Building+projects+one+commit+at+a+time;Always+curious%2C+always+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Learning+AI+%26+Machine+Learning+Deep+Learning;Building+projects+one+commit+at+a+time;Always+curious%2C+always+improving" alt="Typing SVG" />
 
 </div>
 
@@ -13,11 +13,10 @@
 ## 👩‍💻 About me
 
 - 🎓 Computer Science Engineering student
-- 🤖 Passionate about **Artificial Intelligence**, Machine Learning and Data
-- 🌱 Currently learning: *Deep Learning, NLP, Python libraries*
+- 🤖 Passionate about **Artificial Intelligence**, Machine Learning , Deep learning , Agent and LLM
 - 🚀 Working on: personal and academic projects
 - 📍 Based in Algeria 🇩🇿
-- 💬 Ask me about: web development basics, AI, learning paths for students
+
 
 ## 🛠️ Tech stack
 
@@ -30,12 +29,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📌 Featured projects
 
-| Project | Description |
-|---|---|
-| [**1css**](https://github.com/AminaMar/1css) | A short description of this project |
-| [**dernier**](https://github.com/AminaMar/dernier) | A short description of this project |
 
 ## 📊 GitHub stats
 
@@ -48,8 +42,7 @@
 
 ## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouhmidiamina2024@gmail.com)
 
 ---
 
